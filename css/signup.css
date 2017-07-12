@@ -1,0 +1,96 @@
+
+.background-color{
+	background-color:#f2f2f2;
+}
+.card-align span{
+	vertical-align: middle;
+}
+.card-content h3{
+	text-align:center;
+	text-transform: uppercase;
+	color:#fff;
+	margin:10px 0 15px 0;
+}
+.card-shadow{
+	box-shadow: 0 2px 6px #2d3e50;
+}
+.card-black{
+	background-color: #24303e;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}
+.card-margin{
+	margin:40px auto;
+}
+.card-padding{
+	padding: 20px 10px;
+}
+.no-padding{
+	padding:0;
+}
+.card-darkvoliet{
+	background-color: #2d3e50;
+}
+.grid-padding{
+	padding:20px;
+}
+.card-text h5{
+	text-align: center;
+	color:#fff;
+	text-transform: uppercase;
+	margin:0 auto auto auto;
+	font-weight: bold;
+}
+.card-text h4{
+	text-align:center;
+	color:#fff;
+	margin:10px auto 14px auto;
+}
+.card-form input[type="text"],
+.card-form input[type="email"],
+.card-form input[type="password"]{
+	height:40px;
+	border-radius:2px;
+	color:#2d3e50;
+}
+.card-form input[type="text"]:focus{
+	border-color:#ddd;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+.card-form input[type="email"]:focus{
+	border-color:#ddd;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+.card-form input[type="password"]:focus{
+	border-color:#ddd;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+.card-form .input-group-addon{
+	border-top-left-radius: 2px;
+	border-bottom-left-radius: 2px;
+	background-color:#fff;
+}
+.card-form .input-group-addon > span{
+	color:#28bea1;
+}
+.btn-radius{
+	border-radius:0;
+}
+.card-bottom-radius{
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+}
+.main-radius{
+	border-radius: 8px;
+}
+.card-bottom-border{
+	border-bottom:4px solid #28bea1;
+}
+.btn-darkgreen{
+	background-color:#28bea1;
+	color:#fff;
+	border-color:#28bea1;
+}
